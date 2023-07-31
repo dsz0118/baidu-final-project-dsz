@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyBrowser</string>
+    <string name="add_news_description">添加新闻</string>
+</resources>
